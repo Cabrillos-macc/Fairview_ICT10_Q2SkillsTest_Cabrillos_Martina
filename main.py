@@ -102,7 +102,7 @@ def club_info(e):
         <p><b><span style="color:#264085">Description:</span></b> {data['D1']}</p>
         <p><b><span style="color:#264085">Meeting Time:</span></b> {data['MT']}</p>
         <p><b><span style="color:#264085">Location:</span></b> {data['L1']}</p>
-        <p><b><span style="color:#264085">Club Moderator</span></b> {data['A1']}</p>
+        <p><b><span style="color:#264085">Club Moderator:</span></b> {data['A1']}</p>
         <p><b><span style="color:#264085">Number of Members:</span></b> {data['M1']}</p>
         <p><b><span style="color:#264085">Category:</span></b> {data['C1']}</p>
     """
